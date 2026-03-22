@@ -1,7 +1,7 @@
 What this project does...
 # EC2 Random Name Generator
 
-I built this Python script to solve a pretty common problem some companies may face, when multiple departments share the same AWS account, EC2 instance names start to get messy fast. Instead of manually coming up with unique names every time, I made a tool that does it automatically.
+I built this Python script to solve a common problem some companies may face: when multiple departments share the same AWS account, EC2 instance names can get messy fast. Instead of manually coming up with unique names every time, I made a tool that does it automatically, nothing fancy, but it does the job!
 
 Here's what it does:
 - Asks how many EC2 instance names you need

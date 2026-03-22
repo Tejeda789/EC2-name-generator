@@ -35,7 +35,7 @@ for dept in departments:
     number1 = random.choice("0123456789")
     number2 = random.choice("0123456789")
     number3 = random.choice("0123456789")
-    number4 = random.choice("0123456789")
+
     
     # Put everything together
     unique_name = dept + "-" + letter1 + letter2 + letter3 + number1 + number2 + number3 + number4
